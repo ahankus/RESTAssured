@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-06-02T14:00:40 CEST" name="Default suite" finished-at="2021-06-02T14:00:42 CEST" duration-ms="2047">
+    <groups>
+    </groups>
+    <test started-at="2021-06-02T14:00:40 CEST" name="Default test" finished-at="2021-06-02T14:00:42 CEST" duration-ms="2047">
+      <class name="tests.XMLSchemaValidator">
+        <test-method signature="schemaValidation()[pri:0, instance:tests.XMLSchemaValidator@57af006c]" started-at="2021-06-02T14:00:40 CEST" name="schemaValidation" finished-at="2021-06-02T14:00:42 CEST" duration-ms="2016" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- schemaValidation -->
+      </class> <!-- tests.XMLSchemaValidator -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
